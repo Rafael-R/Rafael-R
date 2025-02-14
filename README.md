@@ -1,5 +1,5 @@
 Hi, I’m Rafael Rodrigues.  <br />
-I’m currently studying computer science @ Instituto Superior Técnico
+BSc in Information Systems and Computer Engineering @ Instituto Superior Técnico
 
 <!---
 Rafael-R/Rafael-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
